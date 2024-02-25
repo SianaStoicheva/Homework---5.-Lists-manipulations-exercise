@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\bin\Debug\net8.0\RemoveNegativeElement.exe
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\bin\Debug\net8.0\RemoveNegativeElement.deps.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\bin\Debug\net8.0\RemoveNegativeElement.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\bin\Debug\net8.0\RemoveNegativeElement.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\bin\Debug\net8.0\RemoveNegativeElement.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\refint\RemoveNegativeElement.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\RemoveNegativeElement.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNegativeElement\obj\Debug\net8.0\ref\RemoveNegativeElement.dll

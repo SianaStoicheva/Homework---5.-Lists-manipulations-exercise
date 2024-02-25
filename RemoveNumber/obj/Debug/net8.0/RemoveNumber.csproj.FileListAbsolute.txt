@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\bin\Debug\net8.0\RemoveNumber.exe
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\bin\Debug\net8.0\RemoveNumber.deps.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\bin\Debug\net8.0\RemoveNumber.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\bin\Debug\net8.0\RemoveNumber.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\bin\Debug\net8.0\RemoveNumber.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\refint\RemoveNumber.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\RemoveNumber.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\RemoveNumber\obj\Debug\net8.0\ref\RemoveNumber.dll

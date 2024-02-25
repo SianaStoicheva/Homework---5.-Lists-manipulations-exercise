@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\bin\Debug\net6.0\ListInputOutput.exe
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\bin\Debug\net6.0\ListInputOutput.deps.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\bin\Debug\net6.0\ListInputOutput.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\bin\Debug\net6.0\ListInputOutput.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\bin\Debug\net6.0\ListInputOutput.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\refint\ListInputOutput.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ListInputOutput.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\Spisuk15\obj\Debug\net6.0\ref\ListInputOutput.dll

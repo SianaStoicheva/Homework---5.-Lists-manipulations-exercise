@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\bin\Debug\net8.0\MergingOnList.exe
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\bin\Debug\net8.0\MergingOnList.deps.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\bin\Debug\net8.0\MergingOnList.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\bin\Debug\net8.0\MergingOnList.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\bin\Debug\net8.0\MergingOnList.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\refint\MergingOnList.dll
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.pdb
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\MergingOnList.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ListInputOutput\MergingOnList\obj\Debug\net8.0\ref\MergingOnList.dll
